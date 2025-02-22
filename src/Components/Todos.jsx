@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 // import todosfordo from '../assets/todos';
-import TodoItem from './todoItem';
+import TodoItem from './TodoItem';
 import Calendar from 'react-calendar/dist/cjs/Calendar.js';
 import 'react-calendar/dist/Calendar.css';
 function Todos({ currDate, SelectedDate, setSelectedDate }) {
