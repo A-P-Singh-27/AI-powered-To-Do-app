@@ -1,0 +1,1 @@
+export const AI_Prompt = `give me a json response \n      title: \"\",\n      description: \"\",\n      completed: false,\n      dueDate: \"\"\n\ni want a json object of a todo.\n{prompt} `
